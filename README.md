@@ -9,6 +9,11 @@ Blank application template that uses WebCardinal.
 ```
 git clone https://github.com/vassia38/webcardinal-blank-app/ my-webcardinal-app
 ```
+### Install
+
+```
+npm install
+```
 
 ### Run local server
 
